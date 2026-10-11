@@ -1,0 +1,1 @@
+{"datos":[{"cvegeo":"220160412","cve_ent":"22","cve_mun":"016","cve_loc":"0412","nomgeo":"El Empedrado","ambito":"RURAL","latitud":"20.4534703","longitud":"-99.9070417","altitud":"1958","pob_total":"9","total_viviendas_habitadas":"3","estatus":1,"periodo":"2017-02-28"}],"metadatos":{"Fuente_informacion_estadistica":"INEGI. Censo de Población y Vivienda, 2020"},"numReg":1}

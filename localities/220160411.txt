@@ -1,0 +1,1 @@
+{"datos":[{"cvegeo":"220160411","cve_ent":"22","cve_mun":"016","cve_loc":"0411","nomgeo":"El Arenal","ambito":"RURAL","latitud":"20.3948889","longitud":"-99.9136667","altitud":"2034","pob_total":"16","total_viviendas_habitadas":"4","estatus":1,"periodo":"2017-02-28"}],"metadatos":{"Fuente_informacion_estadistica":"INEGI. Censo de Población y Vivienda, 2020"},"numReg":1}

@@ -1,0 +1,1 @@
+{"datos":[{"cvegeo":"030033223","cve_ent":"03","cve_mun":"003","cve_loc":"3223","nomgeo":"El Teporocho","ambito":"RURAL","latitud":"23.3596806","longitud":"-110.1477611","altitud":"0087","pob_total":"18","total_viviendas_habitadas":"6","estatus":1,"periodo":"2017-02-28"}],"metadatos":{"Fuente_informacion_estadistica":"INEGI. Censo de Población y Vivienda, 2020"},"numReg":1}
